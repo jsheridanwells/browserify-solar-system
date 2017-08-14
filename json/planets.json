@@ -1,0 +1,82 @@
+{"planets" : [
+ {
+ 	"name" : "Mercury",
+ 	"year_discovered" : "14th century BC",
+ 	"mass" : "3.30 x 10^23 kg",
+ 	"size" : "4,879 km",
+ 	"distance_from_sun" : "35.98 million mi",
+ 	"atmosphere" : "Gas",
+ 	"satelites" : "None",
+ 	"explorers" : "MPO MMO"
+ },
+ {
+ 	"name" : "Venus",
+ 	"year_discovered" : "1761",
+ 	"mass" : "4.867 × 10^24 kg",
+ 	"size" : "12,104 km",
+ 	"distance_from_sun" : "67.24 million mi",
+ 	"atmosphere" : "Carbon Dioxide",
+ 	"satelites" : "None",
+ 	"explorers" : "Mariner 10, Galileo"
+ },
+ {
+ 	"name" : "Earth",
+ 	"year_discovered" : "n/a",
+ 	"mass" : "5.972 × 10^24 kg",
+ 	"size" : "7,917.5 mi",
+ 	"distance_from_sun" : "92.96 million mi",
+ 	"atmosphere" : "nitrogen and oxygen",
+ 	"satelites" : "various",
+ 	"explorers" : "various"
+ },
+ {
+ 	"name" : "Mars",
+ 	"year_discovered" : "1659",
+ 	"mass" : "6.39 × 10^23 kg",
+ 	"size" : "4,212 mi",
+ 	"distance_from_sun" : "141.6 million mi",
+ 	"atmosphere" : "Carbon Dioxide",
+ 	"satelites" : "Phobos, Deimos",
+ 	"explorers" : "Spirit, Opportunity"
+ },
+ {
+ 	"name" : "Jupiter",
+ 	"year_discovered" : "1610",
+ 	"mass" : "1.898 × 10^27 kg",
+ 	"size" : "86,881.4 mi",
+ 	"distance_from_sun" : "483.8 million mi",
+ 	"atmosphere" : "Hydrogen and Helium",
+ 	"satelites" : "69 Moons",
+ 	"explorers" : "Voyager"
+ },
+ {
+ 	"name" : "Saturn",
+ 	"year_discovered" : "1610",
+ 	"mass" : "5.683 × 10^26 kg",
+ 	"size" : "72,367.4 mi",
+ 	"distance_from_sun" : "888.2 million mi",
+ 	"atmosphere" : "Hyrodgen, Helium",
+ 	"satelites" : "62 Moons",
+ 	"explorers" : "Cassini"
+ },
+ {
+ 	"name" : "Uranus",
+ 	"year_discovered" : "1781",
+ 	"mass" : "8.681 × 10^25 kg",
+ 	"size" : "31,518 mi",
+ 	"distance_from_sun" : "1.784 billion mi",
+ 	"atmosphere" : "Hydrogen, Helium",
+ 	"satelites" : "27 Moons",
+ 	"explorers" : "Voyager"
+ },
+ {
+ 	"name" : "Neptune",
+ 	"year_discovered" : "1846",
+ 	"mass" : "1.024 × 10^26 kg",
+ 	"size" : "30,599 mi",
+ 	"distance_from_sun" : "2.795 billion mi",
+ 	"atmosphere" : "Hydrogen, Helium",
+ 	"satelites" : "14 Moons",
+ 	"explorers" : "Voyager"
+ }
+]}
